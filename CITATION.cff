@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite WEAVE using the metadata below."
+type: software
+title: "WEAVE: Cross-Server Workflow Conformance for MCP-Based Agent Systems"
+abstract: "A process-mining framework for detecting cross-server attack patterns in agent systems built on the Model Context Protocol (MCP). Includes a domain-specific language (WeaveSpec) for declaring intended agent workflows, four behavioral detection layers (conformance, statistical, sequence, causal), and longitudinal trust scoring (WeaveTrust)."
+authors:
+  - family-names: "Saud"
+    given-names: "Bijan"
+    orcid: "https://orcid.org/my-orcid?orcid=0009-0000-9133-7028"
+repository-code: "https://github.com/BijanSaud1/weave"
+url: "https://github.com/BijanSaud1/weave"
+license: MIT
+keywords:
+  - "Model Context Protocol"
+  - "MCP security"
+  - "agent security"
+  - "process mining"
+  - "anomaly detection"
+  - "LLM agents"
+  - "behavioral conformance"
+date-released: "2026-05-08"
+version: "0.0.1"
